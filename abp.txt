@@ -23,6 +23,13 @@
 ! XiaoMi
 ||tracker.ai.xiaomi.com^
 ||tracking.miui.com^
+||ad.mi.com^
+||ad.xiaomi.com^
+||ad1.xiaomi.com^
+||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
+||adfuture.cn^
+||adsunflower.com^
 
 ! 极推
 ||jpush.cn^
