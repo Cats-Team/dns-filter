@@ -90,9 +90,9 @@
 ||liveweb*.msstatic.com^
 
 ! JD | 京东
+||ads.union.jd.com^
 ||skdisplay.jd.com^
 ||log.jd.com^
-||ads.union.jd.com^
 
 ! JPush | 极推
 ||jpush.cn^
@@ -146,6 +146,9 @@
 ||gozendata.com^
 ||gz-data.com^
 ||gzdata.com.cn^
+
+! Sohu | 搜狐
+||ads.sohu.com^
 
 ! Taobao | 淘宝
 ||umengjmacs.m.taobao.com^
