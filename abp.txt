@@ -125,6 +125,10 @@
 ||pcstatbak.kugou.com^
 ||kgmobilestat.kugou.com^
 ||nbcollectretry.kugou.com^
+||nbcollect.kugou.com^
+||webcollects.kugou.com^
+||rtwebcollects.kugou.com^
+||gatecollect.kugou.com^
 
 ! Meituan| 美团
 ||data-sdk-uuid-log.d.meituan.net^
