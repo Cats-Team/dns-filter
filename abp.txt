@@ -110,25 +110,35 @@
 ||yoda.kwd.inkuai.com^
 
 ! Kugou | 酷狗音乐
-||ads.service.kugou.com^
 ||ads.*.kugou.com^
+||adservice.kugou.com^
 ||adserviceretry.kugou.com^
+||adsfile.bssdlbig.kugou.com^
 ||adsfilebssdlbig.*.kugou.com^
-||log.stat.kugou.com^
+||collect.kugou.com^
+||gatecollect.kugou.com^
+||install2.kugou.com^
+||kgipadstat.kugou.com^
+||kgipadstatbak.kugou.com^
+||kgmobilestat.kugou.com^
 ||log.web.kugou.com^
-||mobilelog.kugou.com^
-||tj.kugou.com^
 ||logtj.kugou.com^
+||logwebs.kugou.com^
+||mobilelog.kugou.com^
+||msg.mobile.kugou.com^
 ||mvads.kugou.com^
-||stat.kugou.com^
+||nbcollect.kugou.com^
+||nbcollectretry.kugou.com^
 ||pcstat.kugou.com^
 ||pcstatbak.kugou.com^
-||kgmobilestat.kugou.com^
-||nbcollectretry.kugou.com^
-||nbcollect.kugou.com^
-||webcollects.kugou.com^
+||push.mobile.kugou.com^
 ||rtwebcollects.kugou.com^
-||gatecollect.kugou.com^
+||splashimgbssdl.yun.kugou.com^
+||stat.kugou.com^
+||tj.kugou.com^
+||tracker.kugou.com^
+||trackercdnbj.kugou.com^
+||webcollects.kugou.com^
 
 ! Kuwo | 酷我
 ||mobilead.kuwo.cn^
