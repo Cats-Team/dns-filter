@@ -130,6 +130,9 @@
 ||rtwebcollects.kugou.com^
 ||gatecollect.kugou.com^
 
+! Kuwo | 酷我
+||mobilead.kuwo.cn^
+
 ! Meituan| 美团
 ||data-sdk-uuid-log.d.meituan.net^
 ||data-sdk-uuid-report.dreport.meituan.net^
@@ -152,7 +155,7 @@
 ||gz-data.com^
 ||gzdata.com.cn^
 
-! 南瓜SDK | Sogaha 
+! Sogaha | 南瓜SDK 
 ||adx.sogaha.cn^
 
 ! Sohu | 搜狐
