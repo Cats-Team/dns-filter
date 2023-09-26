@@ -152,6 +152,10 @@
 
 ! Migu | 咪咕
 ||uem.migu.cn^
+||ad.mcloud.139.com^
+||ad.cmvideo.cn^
+||report.migufun.com^
+||app.log.nf.migu.cn^
 
 ! Mihuyo | 米哈游
 ||ad-log-upload-os.hoyoverse.com^
