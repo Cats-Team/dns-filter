@@ -152,6 +152,9 @@
 ||gz-data.com^
 ||gzdata.com.cn^
 
+! 南瓜SDK | Sogaha 
+||adx.sogaha.cn^
+
 ! Sohu | 搜狐
 ||ads.sohu.com^
 
