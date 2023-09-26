@@ -73,26 +73,26 @@
 ||getui.com^
 
 ! Google | 谷歌
-||google-analytics.com^
-||googleanalytics.com^
 ||2mdn.net^
 ||doubleclick.net^
-||invitemedia.com^
+||google-analytics.com^
 ||googleadservices.com^
+||googleanalytics.com^
+||invitemedia.com^
 
 ! Huxiu | 虎嗅
 ||ad-sdk.huxiu.com^
+||api-ad-product.huxiu.com^
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
-||api-ad-product.huxiu.com^
 
 ! Huya | 虎牙
 ||liveweb*.msstatic.com^
 
 ! JD | 京东
 ||ads.union.jd.com^
-||skdisplay.jd.com^
 ||log.jd.com^
+||skdisplay.jd.com^
 
 ! JPush | 极推
 ||jpush.cn^
@@ -143,7 +143,9 @@
 ! Kuwo | 酷我
 ||mobilead.kuwo.cn^
 
-! Meituan| 美团
+! Meituan | 美团
+||adgame.waimai.meituan.com^
+||analytics.meituan.net^
 ||data-sdk-uuid-log.d.meituan.net^
 ||data-sdk-uuid-report.dreport.meituan.net^
 
@@ -159,6 +161,15 @@
 ! Qiumibao | 球迷宝
 ||stats.qiumibao.com^
 ||webstat.qiumibao.com^
+
+! QTFM | 蜻蜓FM
+||ad-cdn.qingting.fm^
+||adlaunch.qingting.fm^
+||adlog.qingting.fm^
+||ad-cdn.qtfm.cn^
+||adlaunch.qtfm.cn^
+||api-zhibo.qtfm.cn^
+||upload-up.qtfm.cn^
 
 ! QQ Music | QQ音乐
 ||ad.tencentmusic.com^
@@ -184,30 +195,31 @@
 ||ads.sohu.com^
 
 ! Taobao | 淘宝
-||umengjmacs.m.taobao.com^
 ||acs.m.taobao.com^
+||umengjmacs.m.taobao.com^
 
 ! Tencent | 腾讯广告 & 优量汇
+||beacon.qq.com^
+||dutils.com^
+||e.qq.com^
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
-||beacon.qq.com^
-||e.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
-||dutils.com^
 
 ! UC&Quark | UC浏览器 & 夸克
+||adtrack.quark.cn^
+||adtrack.uc.cn^
+||adtrack.ucweb.com^
 ||applog-perf.uc.cn^
 ||applog.ucdns.uc.cn^
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
+||image-ad.sm.cn^
 ||log.m.sm.cn^
 ||px-intl.ucweb.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
-||adtrack.quark.cn^
-||adtrack.ucweb.com^
-||image-ad.sm.cn^
 
 ! Unknown | 未知
 ||sv.mnyh.fun^
@@ -216,14 +228,12 @@
 ||wslog.chinanetcenter.com^
 
 ! Umeng | 友盟
+||cnzz.com^
 ||ulog*.*^
 ||umeng.com^
 ||umengcloud.com^
-||cnzz.com^
 
-! XiaoMi |小米
-||tracker.ai.xiaomi.com^
-||tracking.miui.com^
+! XiaoMi | 小米
 ||ad.mi.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
@@ -231,3 +241,8 @@
 ||adv.sec.miui.com^
 ||adfuture.cn^
 ||adsunflower.com^
+||tracker.ai.xiaomi.com^
+||tracking.miui.com^
+
+! Zhihu | 知乎
+||zhihu-web-analytics.zhihu.com^
