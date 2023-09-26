@@ -160,6 +160,18 @@
 ||stats.qiumibao.com^
 ||webstat.qiumibao.com^
 
+! QQ Music | QQ音乐
+||ad.tencentmusic.com^
+||adcdn.tencentmusic.com^
+||adclick.tencentmusic.com^
+||adexpo.tencentmusic.com^
+||adstats.tencentmusic.com^
+||monitor.music.qq.com^
+||report.tencentmusic.com^
+||stat.y.qq.com^
+||tmead.y.qq.com^
+||tmeadcomm.y.qq.com^
+
 ! Skyworth TV | 创维电视
 ||gozendata.com^
 ||gz-data.com^
@@ -175,7 +187,7 @@
 ||umengjmacs.m.taobao.com^
 ||acs.m.taobao.com^
 
-! Tencent | 腾讯广告 & 优量汇 & QQ音乐
+! Tencent | 腾讯广告 & 优量汇
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
 ||beacon.qq.com^
@@ -183,12 +195,6 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||dutils.com^
-||adstats.tencentmusic.com^
-||adcdn.tencentmusic.com^
-||adclick.tencentmusic.com^
-||adexpo.tencentmusic.com^
-||tmead.y.qq.com^
-||ad.tencentmusic.com^
 
 ! UC&Quark | UC浏览器 & 夸克
 ||applog-perf.uc.cn^
