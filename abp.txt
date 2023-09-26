@@ -171,6 +171,10 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||dutils.com^
 ||adstats.tencentmusic.com^
+||adcdn.tencentmusic.com^
+||adclick.tencentmusic.com^
+||adexpo.tencentmusic.com^
+||tmead.y.qq.com^
 ||ad.tencentmusic.com^
 
 ! UC&Quark | UC浏览器 & 夸克
