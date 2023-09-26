@@ -61,6 +61,7 @@
 
 ! CaiYun | 彩云
 ||ad.cyapi.cn^
+||ad.caiyunapp.com^
 ||ads-api-o.api.leiniao.com^
 
 ! Dongchedi | 懂车帝
