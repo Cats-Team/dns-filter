@@ -74,12 +74,43 @@
 ||getui.com^
 
 ! Google | 谷歌
-||2mdn.net^
+||admob.com^
+||ads.google.cn^
+||ads.youtube.com^
+||adsense.com^
+||adsense.google.cn^
+||adsensecustomsearchads.com^
+||adsenseformobileapps.com^
+||adservice.google.cn^
+||adservice.google.com^
+||advertisercommunity.com^
+||advertiserscommunity.com^
+||adwords-community.com^
+||adwords.com^
+||adwordsexpress.com^
+||app-measurement.com^
+||clickserver.googleads.com^
+||crashlyticsreports-pa.googleapis.com^
+||device-provisioning.googleapis.com^
+||doubleclick-cn.net^
+||doubleclick.com^
 ||doubleclick.net^
+||firebasedynamiclinks.googleapis.com^
+||firebaseinstallations.googleapis.com^
+||firebaselogging.googleapis.com^
+||firebaseremoteconfig.googleapis.com^
 ||google-analytics.com^
+||googleadapis.com^
+||googleadservices-cn.com^
 ||googleadservices.com^
+||googleadsserving.cn^
 ||googleanalytics.com^
+||googleoptimize.com^
+||googlesyndication.com^
+||googletagservices-cn.com^
+||googletraveladservices.com^
 ||invitemedia.com^
+||urchin.com^
 
 ! Huxiu | 虎嗅
 ||ad-sdk.huxiu.com^
@@ -201,6 +232,7 @@
 
 ! Sohu | 搜狐
 ||ads.sohu.com^
+||track.sohu.com^
 
 ! Taobao | 淘宝
 ||umengjmacs.m.taobao.com^
