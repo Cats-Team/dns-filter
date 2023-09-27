@@ -200,7 +200,6 @@
 ||ads.sohu.com^
 
 ! Taobao | 淘宝
-||acs.m.taobao.com^
 ||umengjmacs.m.taobao.com^
 
 ! Tencent | 腾讯广告 & 优量汇
