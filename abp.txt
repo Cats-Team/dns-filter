@@ -270,6 +270,7 @@
 ! Umeng | 友盟
 ||cnzz.com^
 ||ulog*.*^
+||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
 
