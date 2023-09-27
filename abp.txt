@@ -109,6 +109,9 @@
 ||volceapplog.com^
 ||w*.*skwai.com^
 ||yoda.kwd.inkuai.com^
+||ad.partner.gifshow.com^
+||ulog-sdk.gifshow.com^
+||log-sdk.gifshow.com^
 
 ! Kugou | 酷狗音乐
 ||ads.*.kugou.com^
@@ -205,6 +208,7 @@
 ! Tencent | 腾讯广告 & 优量汇
 ||beacon.qq.com^
 ||dutils.com^
+||hiaiabc.com^
 ||e.qq.com^
 ||oth.eve.mdt.qq.com^
 ||oth.eve.qq.com^
