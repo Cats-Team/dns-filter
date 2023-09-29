@@ -230,6 +230,12 @@
 ||tmead.y.qq.com^
 ||tmeadcomm.y.qq.com^
 
+! Potplay
+||p1-play.edge4k.com^
+||p1-play.kgslb.com^
+||p2-play.edge4k.com^
+||play.kakao.com^
+
 ! Skyworth TV | 创维电视
 ||gozendata.com^
 ||gz-data.com^
