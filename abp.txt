@@ -204,6 +204,12 @@
 
 ! Netease | 网易
 ||ads.music.126.net^
+||analytics.163.com^
+||clientlog.music.163.com^
+||clientlog3.music.163.com^
+||crash.163.com^
+||crashlytics.163.com^
+||analytics.126.com^
 
 ! Qiumibao | 球迷宝
 ||stats.qiumibao.com^
