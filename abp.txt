@@ -201,6 +201,9 @@
 ||log-upload.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
 
+! Netease | 网易
+||ads.music.126.net^
+
 ! Qiumibao | 球迷宝
 ||stats.qiumibao.com^
 ||webstat.qiumibao.com^
