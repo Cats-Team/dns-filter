@@ -33,6 +33,7 @@
 ! Baidu | 百度
 ||mobads-logs.baidu.com^
 ||mobads.baidu.com^
+||mobads-pre-config.cdn.bcebos.com^
 
 ! Bing | 必应
 ||bat.r.msn.com^
