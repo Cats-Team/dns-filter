@@ -26,6 +26,9 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||adsco.re^
+||zxid-m.mobileservice.cn^
+||sdktmp.hubcloud.com.cn^
+||beizi.biz^
 
 ! Baidu | 百度
 ||mobads-logs.baidu.com^
@@ -33,6 +36,7 @@
 
 ! Bing | 必应
 ||bat.r.msn.com^
+||advertiseonbing.azureedge.net^
 
 ! Bilibili | 哔哩哔哩
 ||dataflow.biliapi.com^
@@ -273,6 +277,11 @@
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
+
+! Xiaohongshu | 小红书
+||ads-img-qc.xhscdn.com^
+||ads-video-al.xhscdn.com^
+||ads-video-qc.xhscdn.com^
 
 ! XiaoMi | 小米
 ||ad.mi.com^
