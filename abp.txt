@@ -281,6 +281,7 @@
 ! Xiaohongshu | 小红书
 ||ads-img-qc.xhscdn.com^
 ||ads-video-al.xhscdn.com^
+||ads-img-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 
 ! XiaoMi | 小米
