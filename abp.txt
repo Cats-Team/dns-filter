@@ -31,6 +31,7 @@
 ||beizi.biz^
 
 ! Baidu | 百度
+||sofire.baidu.com^
 ||mobads-logs.baidu.com^
 ||mobads.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
