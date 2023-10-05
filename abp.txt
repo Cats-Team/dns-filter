@@ -11,6 +11,7 @@
 ||optimus-ads.amap.com^
 ||logs.amap.com^
 ||cgicol.amap.com^
+||adashx.ut.amap.com^
 
 ! Advertising Alliance | 广告联盟
 ||8le8le.com^
