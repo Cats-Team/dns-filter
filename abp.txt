@@ -271,6 +271,7 @@
 ||oth.eve.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
+||bugly.qq.com^
 
 ! UC&Quark | UC浏览器 & 夸克
 ||adtrack.quark.cn^
