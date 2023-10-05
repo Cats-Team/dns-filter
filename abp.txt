@@ -46,6 +46,7 @@
 ||dataflow.biliapi.com^
 
 ! Bytedance | 字节统计&广告
+||*-ad-sign.byteimg.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*.zijieapi.com^
 ||applog.snssdk.com^
@@ -56,6 +57,7 @@
 ||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||log-sdk.gifshow.com^
+||log.snssdk.com^
 ||p*-ad-sign.byteimg.com^
 ||pangolin-sdk-toutiao*.com^
 ||pangolin-sdk-toutiao-b.com^
@@ -65,7 +67,7 @@
 ||tobapplog.ctobsnssdk.com^
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
-||*-ad-sign.byteimg.com^
+
 
 ! CaiYun | 彩云
 ||ad.cyapi.cn^
