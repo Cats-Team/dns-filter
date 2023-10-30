@@ -42,6 +42,10 @@
 ||mobads.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
 
+! Boss Pin | boss直聘
+||logapi-and.zhipin.com^
+||logapi-ios.zhipin.com^
+
 ! Bing | 必应
 ||bat.r.msn.com^
 ||advertiseonbing.azureedge.net^
