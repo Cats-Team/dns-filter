@@ -298,6 +298,7 @@
 ||loggate.moxigame.cn^
 ||p2cdn.com^
 ||wslog.chinanetcenter.com^
+||dlogs.bwton.com^
 
 ! Umeng | 友盟
 ||cnzz.com^
