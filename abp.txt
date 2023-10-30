@@ -158,6 +158,7 @@
 ||ad.partner.gifshow.com^
 ||ulog-sdk.gifshow.com^
 ||log-sdk.gifshow.com^
+||log-sdk.ksapisrv.com^
 
 ! Kugou | 酷狗音乐
 ||ads.*.kugou.com^
