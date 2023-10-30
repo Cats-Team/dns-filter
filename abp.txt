@@ -33,6 +33,9 @@
 ||beizi.biz^
 ||ope.tanx.com^
 
+! Avlyun | 安天
+||log.avlyun.com^
+
 ! Baidu | 百度
 ||sofire.baidu.com^
 ||mobads-logs.baidu.com^
