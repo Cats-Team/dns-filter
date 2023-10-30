@@ -68,6 +68,7 @@
 ||tobapplog.ctobsnssdk.com^
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
+||*-applog.fqnovel.com^
 
 
 ! CaiYun | 彩云
