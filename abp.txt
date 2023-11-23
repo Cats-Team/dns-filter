@@ -86,6 +86,9 @@
 ||ad.caiyunapp.com^
 ||ads-api-o.api.leiniao.com^
 
+! ClickWIFI | 及刻
+||log-sdk.clickwifi.net^
+
 ! Dongchedi | 懂车帝
 ||sensors-log.dongqiudi.com^
 
@@ -222,6 +225,9 @@
 ||hkrpg-log-upload-os.hoyoverse.com^
 ||log-upload.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
+
+! MGTV | 芒果TV
+||log.mgtv.com^
 
 ! Netease | 网易
 ||ads.music.126.net^
