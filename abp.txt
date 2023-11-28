@@ -154,9 +154,6 @@
 ! JPush | 极推
 ||jpush.cn^
 
-! Kiwi | Kiwi 浏览器
-||logos.kiwibrowser.com^
-
 ! Kuaishou | 快手广告
 ||*-ad.a.yximgs.com^
 ||adukwai.com^
