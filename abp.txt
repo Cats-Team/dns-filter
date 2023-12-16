@@ -7,6 +7,10 @@
 ! 360
 ||union.360.cn^
 
+! Apple
+||api-adservices.apple.com^
+||iadsdk.apple.com^
+
 ! Amap | 高德
 ||optimus-ads.amap.com^
 ||logs.amap.com^
@@ -28,10 +32,10 @@
 ||tradplus.com^
 ||tradplusad.com^
 ||adsco.re^
-||zxid-m.mobileservice.cn^
-||sdktmp.hubcloud.com.cn^
-||beizi.biz^
+||mobileservice.cn^
 ||ope.tanx.com^
+||hubcloud.com.cn^
+||trackingio.com^
 
 ! Avlyun | 安天
 ||log.avlyun.com^
@@ -55,6 +59,7 @@
 
 ! Bytedance | 字节统计&广告
 ||*-ad-sign.byteimg.com^
+||*-applog.fqnovel.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*.zijieapi.com^
 ||applog.snssdk.com^
@@ -75,7 +80,7 @@
 ||tobapplog.ctobsnssdk.com^
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
-||*-applog.fqnovel.com^
+||volceapplog.com^
 
 ! Bwton | 八维通
 ||ad.bwton.com^
@@ -123,6 +128,7 @@
 ||firebasedynamiclinks.googleapis.com^
 ||firebaseinstallations.googleapis.com^
 ||firebaselogging.googleapis.com^
+||firebaselogging-*.googleapis.com^
 ||firebaseremoteconfig.googleapis.com^
 ||google-analytics.com^
 ||googleadapis.com^
@@ -162,7 +168,6 @@
 ||gdfp.gifshow.com^
 ||ulogjs.gifshow.com^
 ||v*-ad.video.yximgs.com^
-||volceapplog.com^
 ||w*.*skwai.com^
 ||yoda.kwd.inkuai.com^
 ||ad.partner.gifshow.com^
@@ -297,6 +302,7 @@
 ||adtrack.uc.cn^
 ||adtrack.ucweb.com^
 ||applog-perf.uc.cn^
+||applog.lc.quark.cn^
 ||applog.ucdns.uc.cn^
 ||gjapplog.uc.cn^
 ||gjapplog.ucweb.com^
@@ -311,6 +317,8 @@
 ||loggate.moxigame.cn^
 ||p2cdn.com^
 ||wslog.chinanetcenter.com^
+||telecome.cn^
+||unioncom.cc^
 
 ! Umeng | 友盟
 ||cnzz.com^
@@ -318,6 +326,9 @@
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
+
+! Weibo | 微博
+||ad.us.sinaimg.cn^
 
 ! Xiaohongshu | 小红书
 ||ads-img-qc.xhscdn.com^
@@ -329,10 +340,12 @@
 ||ad.mi.com^
 ||ad.xiaomi.com^
 ||ad1.xiaomi.com^
-||adv.sec.intl.miui.com^
-||adv.sec.miui.com^
 ||adfuture.cn^
 ||adsunflower.com^
+||adv.sec.intl.miui.com^
+||adv.sec.miui.com^
+||log.aispeech.com^
+||sentry.d.xiaomi.net^
 ||tracker.ai.xiaomi.com^
 ||tracking.miui.com^
 
