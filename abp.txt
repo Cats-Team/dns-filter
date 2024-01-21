@@ -10,6 +10,7 @@
 ! Apple
 ||api-adservices.apple.com^
 ||iadsdk.apple.com^
+||searchads.apple.com^
 
 ! Amap | 高德
 ||optimus-ads.amap.com^
@@ -151,6 +152,14 @@
 
 ! Huya | 虎牙
 ||liveweb*.msstatic.com^
+
+! Heytab | 欢太
+||adsfs.heytapimage.com^
+||adsfs-sdkconfig.heytapimage.com^
+||ads.heytapmobi.com^
+||adsfs.oppomobile.com^
+||ads.oppomobile.com^
+||bdapi-in-ads.realmemobile.com^
 
 ! JD | 京东
 ||ads.union.jd.com^
@@ -319,6 +328,11 @@
 ||wslog.chinanetcenter.com^
 ||telecome.cn^
 ||unioncom.cc^
+||trackerads.com^
+||ads.vungle.com^
+||unityads.unitychina.cn^
+||unityads.unity3d.com^
+||adsdkapi.dxys.pro^
 
 ! Umeng | 友盟
 ||cnzz.com^
