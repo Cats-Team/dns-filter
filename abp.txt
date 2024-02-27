@@ -280,6 +280,9 @@
 ||p2-play.edge4k.com^
 ||play.kakao.com^
 
+! Pixiv
+||ads-pixiv.net^
+
 ! Skyworth TV | 创维电视
 ||gozendata.com^
 ||gz-data.com^
@@ -333,6 +336,8 @@
 ||unityads.unitychina.cn^
 ||unityads.unity3d.com^
 ||adsdkapi.dxys.pro^
+||log-report.com^
+||67it.com^
 
 ! Umeng | 友盟
 ||cnzz.com^
