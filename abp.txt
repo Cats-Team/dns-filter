@@ -82,6 +82,7 @@
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||volceapplog.com^
+||applog.zijieapi.com^
 
 ! Bwton | 八维通
 ||ad.bwton.com^
@@ -325,19 +326,23 @@
 ||track.uc.cn^
 
 ! Unknown | 未知
-||sv.mnyh.fun^
-||loggate.moxigame.cn^
-||p2cdn.com^
-||wslog.chinanetcenter.com^
-||telecome.cn^
-||unioncom.cc^
-||trackerads.com^
+||67it.com^
+||ad-scope.com.cn^
 ||ads.vungle.com^
-||unityads.unitychina.cn^
-||unityads.unity3d.com^
 ||adsdkapi.dxys.pro^
 ||log-report.com^
-||67it.com^
+||loggate.moxigame.cn^
+||p2cdn.com^
+||sv.mnyh.fun^
+||telecome.cn^
+||trackerads.com^
+||tradplusad.com^
+||tradplusad.net^
+||unioncom.cc^
+||unityads.unity3d.com^
+||unityads.unitychina.cn^
+||voiceads.cn^
+||wslog.chinanetcenter.com^
 
 ! Umeng | 友盟
 ||cnzz.com^
