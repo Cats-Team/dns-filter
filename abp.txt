@@ -5,6 +5,10 @@
 ! Description: Block Ads and Statistical
 
 ! 360
+||ad.dev.360.cn^
+||ad.gamebox.360.cn^
+||ad.jia.360.cn^
+||ads360.cn^
 ||union.360.cn^
 
 ! Apple
@@ -63,7 +67,11 @@
 ||*-applog.fqnovel.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*.zijieapi.com^
+||ads3-normal-lq.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||ads5-normal-lq.zijieapi.com^
 ||applog.snssdk.com^
+||applog.zijieapi.com^
 ||bds.snssdk.com^
 ||dig.bdurl.net^
 ||dig.zjurl.cn^
@@ -72,17 +80,36 @@
 ||log*-normal-lq.toutiaoapi.com^
 ||log-sdk.gifshow.com^
 ||log.snssdk.com^
+||log0-misc-alinc2.amemv.com^
+||log0-misc-lf.amemv.com^
+||log0-misc-lq.amemv.com^
+||log3-misc-lf.amemv.com^
+||log3-misc-lq.amemv.com^
+||log3-normal-hl.toutiaoapi.com^
+||log5-misc-lf.amemv.com^
+||log5-misc-lq.amemv.com^
 ||p*-ad-sign.byteimg.com^
+||p3-ad-sign.byteimg.com^
+||p6-ad-sign.byteimg.com^
+||p9-ad-sign.byteimg.com^
+||pangolin-dsp-toutiao-b.com^
+||pangolin-dsp-toutiao.com^
 ||pangolin-sdk-toutiao*.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao1.com^
 ||pangolin.snssdk.com^
+||pangolin16.isnssdk.com^
+||pangolin16.sgsnssdk.com^
+||pangolinbutlerlounge.com^
 ||pglstatp-toutiao.com^
+||tnc3-alisc1.zijieapi.com^
+||tnc3-alisc2.zijieapi.com^
+||tnc3-bjlgy.zijieapi.com^
 ||tobapplog.ctobsnssdk.com^
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||volceapplog.com^
-||applog.zijieapi.com^
 
 ! Bwton | 八维通
 ||ad.bwton.com^
@@ -151,9 +178,6 @@
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
 
-! Huya | 虎牙
-||liveweb*.msstatic.com^
-
 ! Heytab | 欢太
 ||adsfs.heytapimage.com^
 ||adsfs-sdkconfig.heytapimage.com^
@@ -169,35 +193,55 @@
 
 ! JPush | 极推
 ||jpush.cn^
+||jpush.html5.qq.com^
+||jpush.io^
+||jpush0b.xyz^
+||jpushjd.m.jd.com^
+||jpushoa.com^
 
 ! Kuaishou | 快手广告
 ||*-ad.a.yximgs.com^
+||ad.a.yximgs.com^
+||ad.partner.gifshow.com^
 ||adukwai.com^
+||ali-ad.a.yximgs.com^
 ||e.kuaishou.cn^
 ||e.kuaishou.com^
 ||gdfp.gifshow.com^
-||ulogjs.gifshow.com^
-||v*-ad.video.yximgs.com^
-||w*.*skwai.com^
-||yoda.kwd.inkuai.com^
-||ad.partner.gifshow.com^
-||ulog-sdk.gifshow.com^
+||hw-ot-ad.a.yximgs.com^
+||js-ad.a.yximgs.com^
 ||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
+||tx-ad.a.yximgs.com^
+||ulog-sdk.gifshow.com^
+||ulogjs.gifshow.com^
+||v*-ad.video.yximgs.com^
+||v1-ad.video.yximgs.com^
+||v2-ad.video.yximgs.com^
+||v3-ad.video.yximgs.com^
+||w*.*skwai.com^
+||yoda.kwd.inkuai.com^
 
 ! Kugou | 酷狗音乐
 ||ads.*.kugou.com^
+||ads.service.kugou.com^
 ||adservice.kugou.com^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||collect.kugou.com^
+||d.kugou.com^
+||downmini.kugou.com^
+||exceptionlog.kugou.com^
 ||gatecollect.kugou.com^
 ||install2.kugou.com^
 ||kgipadstat.kugou.com^
 ||kgipadstatbak.kugou.com^
 ||kgmobilestat.kugou.com^
+||kgmobilestatbak.kugou.com^
+||log.stat.kugou.com^
 ||log.web.kugou.com^
+||logstat.kugou.com^
 ||logtj.kugou.com^
 ||logwebs.kugou.com^
 ||mobilelog.kugou.com^
@@ -208,7 +252,10 @@
 ||pcstat.kugou.com^
 ||pcstatbak.kugou.com^
 ||push.mobile.kugou.com^
+||rtmonitor.kugou.com^
 ||rtwebcollects.kugou.com^
+||serveraddr.service.kugou.com^
+||softstart.kugou.com^
 ||splashimgbssdl.yun.kugou.com^
 ||stat.kugou.com^
 ||tj.kugou.com^
@@ -218,6 +265,8 @@
 
 ! Kuwo | 酷我
 ||mobilead.kuwo.cn^
+||log.kuwo.cn^
+||webstat.kuwo.cn^
 
 ! Meituan | 美团
 ||adgame.waimai.meituan.com^
@@ -234,21 +283,37 @@
 
 ! Mihuyo | 米哈游
 ||ad-log-upload-os.hoyoverse.com^
+||apm-log-upload-os.hoyoverse.com^
+||devlog-upload-os.hoyoverse.com^
 ||hkrpg-log-upload-os.hoyoverse.com^
-||log-upload.mihoyo.com^
+||hkrpg-log-upload.mihoyo.com^
+||log-upload-eur.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
+||log-upload.mihoyo.com^
+||reksaidnslog.security.mihoyo.com^
+||sg-public-data-api.hoyoverse.com^
+||ys-log-upload-os.hoyoverse.com^
 
 ! MGTV | 芒果TV
 ||log.mgtv.com^
+||da.mgtv.com^
+||disp.titan.mgtv.com^
+||log.mgtv.com^
+||ott-v0-al.data.mgtv.com^
+||ott.v1.data.mgtv.com^
+||pcweb.v1.mgtv.com^
 
 ! Netease | 网易
+||ad.163.com^
+||adgeo.163.com^
+||adimg.163.com^
 ||ads.music.126.net^
+||analytics.126.com^
 ||analytics.163.com^
 ||clientlog.music.163.com^
 ||clientlog3.music.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
-||analytics.126.com^
 
 ! Qiumibao | 球迷宝
 ||stats.qiumibao.com^
@@ -256,11 +321,17 @@
 
 ! QTFM | 蜻蜓FM
 ||ad-cdn.qingting.fm^
-||adlaunch.qingting.fm^
-||adlog.qingting.fm^
 ||ad-cdn.qtfm.cn^
+||ad.qingting.fm^
+||adlaunch.qingting.fm^
 ||adlaunch.qtfm.cn^
+||adlog.qingting.fm^
+||admgr.qingting.fm^
 ||api-zhibo.qtfm.cn^
+||logger.qingting.fm^
+||s.qd.qingting.fm^
+||s.qd.qingtingfm.com^
+||s.qtad.qingting.fm^
 ||upload-up.qtfm.cn^
 
 ! QQ Music | QQ音乐
@@ -345,8 +416,12 @@
 ||wslog.chinanetcenter.com^
 
 ! Umeng | 友盟
+||cnzz.cn^
 ||cnzz.com^
+||cnzz.net^
 ||ulog*.*^
+||ulog-sdk.gifshow.com^
+||ulogjs.gifshow.com^
 ||umeng.co^
 ||umeng.com^
 ||umengcloud.com^
@@ -374,4 +449,12 @@
 ||tracking.miui.com^
 
 ! Zhihu | 知乎
+||adstatic.zhihu.com^
+||appcloud2.in.zhihu.com^
+||crash2.zhihu.com^
+||event.zhihu.com^
+||lc-push.zhihu.com^
+||mqtt.zhihu.com^
+||sugar.zhihu.com^
+||udd1i5.zhihu.com^
 ||zhihu-web-analytics.zhihu.com^
