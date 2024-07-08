@@ -1,7 +1,7 @@
-[Adblock Plus 2.0] 
-! Title: AdRules DNS Filter 
-! Version: 1.0 
-! Homepage: https://github.com/Cats-Team/dns-filter 
+[Adblock Plus 2.0]
+! Title: AdRules DNS Filter
+! Version: 1.0
+! Homepage: https://github.com/Cats-Team/dns-filter
 ! Description: Block Ads and Statistical
 
 ! 360
@@ -31,6 +31,7 @@
 ||adsmogo.com^
 ||adsunflower.com^
 ||advmob.cn^
+||adjust.com^
 ||ad-survey.com^
 ||beizi.biz^
 ||tradplus.cn^
@@ -41,9 +42,18 @@
 ||ope.tanx.com^
 ||hubcloud.com.cn^
 ||trackingio.com^
+||tsvrv.com^
+||markmedia.com^
 
 ! Avlyun | 安天
 ||log.avlyun.com^
+
+! Amazon
+||advertising-api-fe.amazon.com^
+||advertising-api.amazon.com^
+||advertising-api-eu.amazon.com^
+||adtago.s3.amazonaws.com^
+||advice-ads.s3.amazonaws.com^
 
 ! Baidu | 百度
 ||sofire.baidu.com^
@@ -126,7 +136,7 @@
 ! Dongchedi | 懂车帝
 ||sensors-log.dongqiudi.com^
 
-! Flurry统计
+! Flurry 统计
 ||flurry.com^
 
 ! Getui | 个推
@@ -185,6 +195,9 @@
 ||adsfs.oppomobile.com^
 ||ads.oppomobile.com^
 ||bdapi-in-ads.realmemobile.com^
+||ads.heytapmobile.com^
+||allawnos.com^
+||allawntech.com^
 
 ! JD | 京东
 ||ads.union.jd.com^
@@ -319,7 +332,7 @@
 ||crash.163.com^
 ||crashlytics.163.com^
 
-! PotPlay 
+! PotPlay
 ||p1-play.edge4k.com^
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
@@ -373,7 +386,7 @@
 ||gz-data.com^
 ||gzdata.com.cn^
 
-! Sogaha | 南瓜SDK 
+! Sogaha | 南瓜SDK
 ||adx.sogaha.cn^
 
 ! Sohu | 搜狐
@@ -393,6 +406,15 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||bugly.qq.com^
+||wxsmw.wxs.qq.com^
+||apd-pcdnwxlogin.teg.tencent-cloud.net^
+||apd-pcdnwxnat.teg.tencent-cloud.net^
+||apd-pcdnwxstat.teg.tencent-cloud.net^
+||wximg.wxs.qq.com^
+||wxsnsad.tc.qq.com^
+||wxsnsdy.wxs.qq.com^
+||wxsnsdythumb.wxs.qq.com^
+||wxsnsad.tc.qq.com^
 
 ! UC&Quark | UC浏览器 & 夸克
 ||adtrack.quark.cn^
@@ -408,6 +430,7 @@
 ||px-intl.ucweb.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
+||video-ad.sm.cn^
 
 ! Unknown | 未知
 ||67it.com^
@@ -433,6 +456,12 @@
 ||unityads.unitychina.cn^
 ||voiceads.cn^
 ||wslog.chinanetcenter.com^
+||bianxian.com^
+||bidtoolads.com^
+||hanlanad.com^
+||litchiads.com^
+||ads.pinterest.com^
+||log.pinterest.com^
 
 ! Umeng | 友盟
 ||cnzz.cn^
@@ -466,6 +495,14 @@
 ||sentry.d.xiaomi.net^
 ||tracker.ai.xiaomi.com^
 ||tracking.miui.com^
+||ad.intl.xiaomi.com^
+
+! Youku
+||ad.youku.com^
+||ykad-data.youku.com^
+||ykad-gateway.youku.com^
+||youku-acs.m.taobao.com^
+||adx-open-service.youku.com^
 
 ! Zhihu | 知乎
 ||adstatic.zhihu.com^
