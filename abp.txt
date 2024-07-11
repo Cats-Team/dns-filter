@@ -195,8 +195,6 @@
 ||adsfs-sdkconfig.heytapimage.com^
 ||adsfs.heytapimage.com^
 ||adsfs.oppomobile.com^
-||allawnos.com^
-||allawntech.com^
 ||bdapi-in-ads.realmemobile.com^
 
 ! JD | 京东
