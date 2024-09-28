@@ -457,6 +457,7 @@
 ||unityads.unitychina.cn^
 ||voiceads.cn^
 ||wslog.chinanetcenter.com^
+||ios-pclog.i4.cn^
 
 ! Umeng | 友盟
 ||cnzz.cn^
