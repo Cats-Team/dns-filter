@@ -56,6 +56,7 @@
 ||advice-ads.s3.amazonaws.com^
 
 ! Baidu | 百度
+||bes-mtj.baidu.com^
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||mobads.baidu.com^
@@ -75,6 +76,7 @@
 ! Bytedance | 字节统计&广告
 ||*-ad-sign.byteimg.com^
 ||*-applog.fqnovel.com^
+||abtest-ch.snssdk.com^
 ||ads*-normal*.zijieapi.com^
 ||ads*.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
@@ -86,6 +88,7 @@
 ||dig.bdurl.net^
 ||dig.zjurl.cn^
 ||extlog.snssdk.com^
+||gecko.snssdk.com^
 ||log*-misc-lq.amemv.com^
 ||log*-normal-lq.toutiaoapi.com^
 ||log-sdk.gifshow.com^
@@ -120,6 +123,7 @@
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||volceapplog.com^
+||lf6-ad-union-sdk.pglstatp-toutiao.com^
 
 ! Bwton | 八维通
 ||ad.bwton.com^
@@ -379,6 +383,9 @@
 ! Pixiv
 ||ads-pixiv.net^
 
+! Pinduoduo
+||dspsdk.pinduoduo.com^
+
 ! Skyworth TV | 创维电视
 ||gozendata.com^
 ||gz-data.com^
@@ -434,10 +441,18 @@
 ||ads.vungle.com^
 ||adsdkapi.dxys.pro^
 ||adwangmai.com^
+||adx-bj-req.anythinktech.com^
+||adx-bj.anythinktech.com^
+||adx-cn.anythinktech.com^
+||adx-os-req.anythinktech.com^
+||adx-os.anythinktech.com^
 ||bianxian.com^
 ||bidtoolads.com^
+||cn-api.anythinktech.com^
+||datk.anythinktech.com^
 ||hanlanad.com^
 ||hzsanjiaomao.com^
+||ios-pclog.i4.cn^
 ||litchiads.com^
 ||log-report.com^
 ||log.pinterest.com^
@@ -457,7 +472,6 @@
 ||unityads.unitychina.cn^
 ||voiceads.cn^
 ||wslog.chinanetcenter.com^
-||ios-pclog.i4.cn^
 
 ! Umeng | 友盟
 ||cnzz.cn^
