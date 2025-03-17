@@ -22,6 +22,12 @@
 ||logs.amap.com^
 ||optimus-ads.amap.com^
 
+! Ali | 阿里
+||adashx.ut.uc.cn^
+||s-adashx.ut.uc.cn^
+||h-adashx.ut.uc.cn^
+||h-adashx.ut.amap.com^
+
 ! Advertising Alliance | 广告联盟
 ||8le8le.com^
 ||ad-survey.com^
