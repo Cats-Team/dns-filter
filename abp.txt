@@ -455,6 +455,7 @@
 ||bianxian.com^
 ||bidtoolads.com^
 ||cn-api.anythinktech.com^
+||data-track.yingxiong.com^
 ||datk.anythinktech.com^
 ||hanlanad.com^
 ||hzsanjiaomao.com^
