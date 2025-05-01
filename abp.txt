@@ -9,8 +9,10 @@
 ||ad.gamebox.360.cn^
 ||ad.jia.360.cn^
 ||ads360.cn^
+||c.sayhi.360.cn^
 ||hye.comp.360os.com^
 ||hyt.comp.360os.com^
+||p.s.360.cn^
 ||union.360.cn^
 
 ! Advertising Alliance | 广告联盟
@@ -73,6 +75,7 @@
 ||baichuan-sdk.alicdn.com^
 ||baichuan-sdk.taobao.com^
 ||beacon-api.aliyuncs.com^
+||dualstack-logs.amap.com^
 ||h-adashx.ut.amap.com^
 ||h-adashx.ut.taobao.com^
 ||h-adashx.ut.uc.cn^
@@ -86,11 +89,15 @@
 ||advertising-api-fe.amazon.com^
 ||advertising-api.amazon.com^
 ||advice-ads.s3.amazonaws.com^
+||s.amazon-adsystem.com^
+||analyticsengine.s3.amazonaws.com^
+||analytics.s3.amazonaws.com^
 
 ! Apple
 ||advertising.apple.com^
 ||api-adservices.apple.com^
 ||books-analytics-events.apple.com^
+||iad.apple.com^
 ||iadsdk.apple.com^
 ||iadworkbench.apple.com^
 ||metrics.icloud.com^
@@ -183,6 +190,7 @@
 ||extlog.snssdk.com^
 ||gecko.snssdk.com^
 ||log-sdk.gifshow.com^
+||ulog-sdk.gifshow.com^
 ||log.snssdk.com^
 ||log.zijieapi.com^
 ||log*-misc-lq.amemv.com^
@@ -285,6 +293,7 @@
 ||adwords-community.com^
 ||adwords.com^
 ||adwordsexpress.com^
+||analytics.google.com^
 ||app-measurement.com^
 ||clickserver.googleads.com^
 ||crashlyticsreports-pa.googleapis.com^
@@ -335,13 +344,14 @@
 ||virusinfo-cloudscan-cn.heytapmobi.com^
 
 ! Iqiyi | 爱奇艺
+||ifacelog.iqiyi.com^
 ||liveats-vod.video.ptqy.gitv.tv^
+||mbdlog.iqiyi.com^
 ||policy.video.ptqy.gitv.tv^
 ||sdk-cache.video.ptqy.gitv.tv^
 ||t7z.cupid.iqiyi.com^
 ||t7z.cupid.ptqy.gitv.tv^
 ||tpa-hcdn.iqiyi.com^
-||ifacelog.iqiyi.com^
 
 ! JD | 京东
 ||addata.jd.com^
@@ -374,6 +384,7 @@
 ||ad.partner.gifshow.com^
 ||adukwai.com^
 ||ali-ad.a.yximgs.com^
+||ali-p2p-v2.pull.yximgs.com^
 ||api.kingdata.ksyun.com^
 ||e.kuaishou.cn^
 ||e.kuaishou.com^
@@ -392,6 +403,8 @@
 ||open.kwaizt.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||tx-ad.a.yximgs.com^
+||tx-p2p-pull.live-voip.com^
+||tx-p2p-v2.pull.yximgs.com^
 ||v*-ad.video.yximgs.com^
 ||v1-ad.video.yximgs.com^
 ||v2-ad.video.yximgs.com^
@@ -567,7 +580,8 @@
 ||analytics-api.samsunghealthcn.com^
 ||nmetrics.samsung.com^
 ||smetrics.samsung.com^
-
+||samsungads.com^
+||samsung-com.112.2o7.net^
 ! Skyworth TV | 创维电视
 ||gozendata.com^
 ||gz-data.com^
@@ -616,6 +630,8 @@
 ||hiaiabc.com^
 ||ii.gdt.qq.com^
 ||kde.qq.com^
+||ks-p2p-v2.pull.yximgs.com^
+||ks-p2p.pull.yximgs.com^
 ||lives.l.ott.video.qq.com^
 ||log.tbs.qq.com^
 ||masdkv6.3g.qq.com^
@@ -638,6 +654,7 @@
 ||report.tv.kohesport.qq.com^
 ||review.gdtimg.com^
 ||rpt.gdt.qq.com^
+||scdown.qq.com^
 ||sdkconfig.video.qq.com^
 ||sngmta.qq.com^
 ||snowflake.qq.com^
@@ -648,8 +665,8 @@
 ||tmfsdktcpv4.m.qq.com^
 ||trace.qq.com^
 ||tx-kmpaudio.pull.yximgs.com^
-||tx-p2p-pull.live-voip.com^
-||tx-p2p-v2.pull.yximgs.com^
+
+
 ||us.l.qq.com^
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
@@ -768,6 +785,7 @@
 ||tracking.rus.miui.com^
 ||tz.sec.xiaomi.com^
 ||video.market.xiaomi.com^
+||xiaomi-dtv.m.cn.miaozhen.com^
 
 ! Youku
 ||ad.youku.com^
@@ -783,6 +801,8 @@
 ||log.fc.yahoo.com^
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
+||adtech.yahooinc.com^
+||analytics.query.yahoo.com^
 
 ! Yandex
 ||advertising.yandex.ru^
@@ -822,16 +842,26 @@
 ||ad.v3mh.com^
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
+||ad.zhangyue.com^
 ||ad2.ettoday.net^
 ||adapi.yynetwk.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
+||adcolony.com^
 ||adeng.hpplay.cn^
 ||adexp.chinaliftoff.io^
+||adguanggao.eee114.com^
+||adm.funshion.com^
+||ads-api.tiktok.com^
 ||ads-marketing-vivofs.vivo.com.cn^
+||ads-sdk-api.ranfenghd.com^
+||ads-sg.tiktok.com^
 ||ads.pinterest.com^
+||ads.pubmatic.com^
+||ads.servebom.com^
+||ads.tiktok.com^
 ||ads.v3mh.com^
-||ads.vungle.com^
+||adsdk.vivo.com.cn^
 ||adsdkapi.dxys.pro^
 ||adse.test.ximalaya.com^
 ||adse.wsa.ximalaya.com^
@@ -853,11 +883,11 @@
 ||adx.appsdk.com.cn^
 ||adx.tuia.cn^
 ||aiseet.aa.atianqi.com^
-||ali-p2p-v2.pull.yximgs.com^
 ||analysis.chatglm.cn^
 ||analysis.yozocloud.cn^
+||analytics.rayjump.com^
+||analytics.tiktok.com^
 ||analytics.woozooo.com^
-||analyticsengine.s3.amazonaws.com^
 ||analyze.lemurbrowser.com^
 ||andrqd.play.aiseet.atianqi.com^
 ||api.fu.xcultur.com^
@@ -867,8 +897,9 @@
 ||api.touch-moblie.com^
 ||api.yfanads.com^
 ||apiyd.my91app.com^
+||applovin.com^
 ||bdad.123pan.cn^
-
+||beacons.gvt2.com^
 ||bianxian.com^
 ||bidtoolads.com^
 ||browsercfg-drcn.cloud.dbankcloud.cn^
@@ -884,6 +915,7 @@
 ||cdn.aiclk.com^
 ||cdn.chinaliftoff-creatives.io^
 ||cdn.hpplay.com.cn^
+||cdn.iads.unitychina.cn^
 ||cdn.ynuf.aliapp.org^
 ||cj.qidian.com^
 ||click.chinaliftoff.io^
@@ -894,10 +926,12 @@
 ||config.chsmarttv.com^
 ||cpc-service-square.aiclk.com^
 ||cws-cctv.conviva.com^
+||d.applvn.com^
 ||data-track.yingxiong.com^
 ||data.chsmarttv.com^
 ||datk.anythinktech.com^
 ||dc.sigmob.cn^
+||de.tynt.com^
 ||dl.zuimeitianqi.com^
 ||domain.aishengji.com^
 ||download.changhong.upgrade2.huan.tv^
@@ -922,12 +956,17 @@
 ||hw-p2p-pull.video-voip.com^
 ||hzsanjiaomao.com^
 ||iadctest.qwapi.com^
+||image.hpplay.cn^
+||imdns.hpplay.cn^
 ||img.adnyg.com.w.kunlungr.com^
 ||impression-asia.chinaliftoff.io^
+||impression.appsflyer.com^
+||in.treasuredata.com^
 ||ios-pclog.i4.cn^
 ||ipv4.kkmh.com^
 ||irc.qubiankeji.com^
 ||iyfbodn.com^
+||jiguang.cn^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
 ||litchiads.com^
@@ -938,6 +977,7 @@
 ||log-report.com^
 ||log.amemv.com^
 ||log.appstore3.huan.tv^
+||log.byteoversea.com^
 ||log.pinterest.com^
 ||log.popin.cc^
 ||log.tagtic.cn^
@@ -945,6 +985,7 @@
 ||log1.cmpassport.com^
 ||loggate.moxigame.cn^
 ||logrcv.aiclk.com^
+||m.atm.youku.com^
 ||micro-xdb.com^
 ||mini-prog-drm.vodplayvideo.net^
 ||mnqlog.ldmnq.com^
@@ -952,6 +993,10 @@
 ||mobaliyun.res.mgtv.com^
 ||monitor-ads-test.huan.tv^
 ||monitor-uu.play.aiseet.atianqi.com^
+||ms.applvn.com^
+||ms4.applvn.com^
+||mssdk.volces.com^
+||o-sdk.mediation.unity3d.com^
 ||omgmta.play.aiseet.atianqi.com^
 ||otheve.play.aiseet.atianqi.com^
 ||p2cdn.com^
@@ -966,6 +1011,8 @@
 ||rp.hpplay.cn^
 ||rps.hpplay.cn^
 ||rt.applvn.com^
+||s8t.teads.tv^
+||saas.hpplay.cn^
 ||sanme2.taisantech.com^
 ||saxysec.com^
 ||scs.openspeech.cn^
@@ -984,12 +1031,16 @@
 ||stats.wp.com^
 ||statsigapi.net^
 ||stun.hitv.com^
+||sv-video.play.aiseet.atianqi.com^
 ||sv.mnyh.fun^
 ||syh-imp.cdnjtzy.com^
 ||szbdyd.com^
+||t.teads.tv^
+||t1.teads.tv^
 ||tdsdk.xdrig.com^
 ||telecome.cn^
 ||tencent-dtv.m.cn.miaozhen.com^
+||tr-asia.adsmoloco.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
 ||track.66mobi.com^
@@ -998,6 +1049,7 @@
 ||tradplusad.net^
 ||tvapp.hpplay.cn^
 ||tvuser-ch.cedock.com^
+||tytx.m.cn.miaozhen.com^
 ||uedas.qidian.com^
 ||uhabo.com^
 ||umini.shujupie.com^
@@ -1008,11 +1060,16 @@
 ||update0.aiclk.com^
 ||upgrade-update.hismarttv.com^
 ||usr-api.aiclk.com^
+||v.110route.cn^
 ||v2-api-channel-launcher.hismarttv.com^
 ||vali-ugc.cp31.ott.cibntv.net^
 ||vipauth.hpplay.cn^
+||vipgslb.hpplay.cn^
 ||voiceads.cn^
+||vungle.com^
+||wildcard.moatads.com.edgekey.net^
 ||wslog.chinanetcenter.com^
+||wv.inner-active.mobi^
 ||wwads.cn^
 ||xhcdn.com^
 ||xlviiirdr.com^
