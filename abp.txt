@@ -68,6 +68,7 @@
 
 ! Ali | 阿里
 ||adashbc.ut.taobao.com^
+||adashx.ut.hzshudian.com^
 ||adashx.ut.uc.cn^
 ||amdcopen.m.taobao.com^
 ||applog.uc.cn^
@@ -77,6 +78,7 @@
 ||beacon-api.aliyuncs.com^
 ||dualstack-logs.amap.com^
 ||h-adashx.ut.amap.com^
+||h-adashx.ut.hzshudian.com^
 ||h-adashx.ut.taobao.com^
 ||h-adashx.ut.uc.cn^
 ||hybrid.miniapp.taobao.com^
