@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: AdRules DNS Filter
-! Version: 2025
+! Version: 2025.08
 ! Homepage: https://github.com/Cats-Team/dns-filter
 ! Description: Block Ads and Statistical
 
@@ -244,6 +244,15 @@
 ||ug.snssdk.com^
 ||vcl-brain.snssdk.com^
 ||volceapplog.com^
+||tnc0-aliec2.zijieapi.com^
+||tnc0-alisc1.zijieapi.com^
+||tnc0-bjlgy.zijieapi.com^
+||tnc3-aliec1.toutiaoapi.com^
+||tnc3-aliec2.snssdk.com^
+||tnc3-alisc1.snssdk.com^
+||tnc3-alisc1.toutiaoapi.com^
+||tnc3-bjlgy.snssdk.com^
+||api-access.pangolin-sdk-toutiao5.com^
 
 ! Bwton | 八维通
 ||ad.bwton.com^
@@ -403,6 +412,7 @@
 ||metrics2.data.hicloud.com^
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
+||promotion-partner.kuaishou.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||tx-ad.a.yximgs.com^
 ||tx-p2p-pull.live-voip.com^
@@ -777,8 +787,10 @@
 ||log.aispeech.com^
 ||logupdate.avlyun.sec.miui.com^
 ||mobilelog.upqzfile.com^
+||notify.sec.miui.com^
 ||o2o.api.xiaomi.com^
 ||sentry.d.xiaomi.net^
+||staging-notify.sec.miui.com^
 ||t1.a.market.xiaomi.com^
 ||t2.a.market.xiaomi.com^
 ||t3.a.market.xiaomi.com^
@@ -824,16 +836,16 @@
 ||zhihu-web-analytics.zhihu.com^
 
 ! Unknown | 未知 & 杂项
+||67it.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
 ||1500026601.vodplayer.wxamedia.com^
-||67it.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
 ||ad-sdk-config.youdao.com^
+||ad.51wnl.com^
 ||ad.10010.com^
 ||ad.12306.cn^
-||ad.51wnl.com^
 ||ad.api.3g.youku.com^
 ||ad.cctv.com^
 ||ad.gameley.com^
@@ -929,6 +941,7 @@
 ||cpc-service-square.aiclk.com^
 ||cws-cctv.conviva.com^
 ||d.applvn.com^
+||da.anythinktech.com^
 ||data-track.yingxiong.com^
 ||data.chsmarttv.com^
 ||datk.anythinktech.com^
@@ -977,9 +990,11 @@
 ||lives.l.aiseet.atianqi.com^
 ||lm10111.jtrincc.cn^
 ||log-report.com^
+||log.aliyuncs.com^
 ||log.amemv.com^
 ||log.appstore3.huan.tv^
 ||log.byteoversea.com^
+||log.iflytek.com^
 ||log.pinterest.com^
 ||log.popin.cc^
 ||log.tagtic.cn^
