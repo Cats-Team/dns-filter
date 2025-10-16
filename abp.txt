@@ -541,7 +541,7 @@
 ||p2-play.edge4k.com^
 ||p1-play.kgslb.com^
 ||ad.daum.net^
-||play.kakao.com^
+!||play.kakao.com^
 
 ! Qiumibao | 球迷宝
 ||stats.qiumibao.com^
