@@ -433,13 +433,16 @@
 ||adservice.kugou.com^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
-||adsfilebssdlbig.*.kugou.com^
 ||adsfilebssdlbig.ali.kugou.com^
+||adsfilebssdlbig.*.kugou.com^
 ||adsfileretry.service.kugou.com^
 ||collect.kugou.com^
 ||d.kugou.com^
 ||downmini.kugou.com^
 ||exceptionlog.kugou.com^
+||expendablekmr.kugou.com^
+||expendablekmrcdn.kugou.com^
+||expendablekmrcdnretry.kugou.com^
 ||gatecollect.kugou.com^
 ||install2.kugou.com^
 ||jswebcollects.kugou.com^
@@ -447,6 +450,8 @@
 ||kgipadstatbak.kugou.com^
 ||kgmobilestat.kugou.com^
 ||kgmobilestatbak.kugou.com^
+||kmr.service.kugou.com^
+||kmrcdn.service.kugou.com^
 ||log.web.kugou.com^
 ||logstat.kugou.com^
 ||logtj.kugou.com^
@@ -469,6 +474,7 @@
 ||tracker.kugou.com^
 ||trackercdnbj.kugou.com^
 ||webcollects.kugou.com^
+
 
 ! Kuwo | 酷我
 ||mobilead.kuwo.cn^
