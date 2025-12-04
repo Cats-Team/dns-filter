@@ -470,6 +470,10 @@
 ||softstart.kugou.com^
 ||splashimgbssdl.yun.kugou.com^
 ||stat.kugou.com^
+||stun.kugou.com^
+||pstun.kugou.com^
+||*stun.kugou.com^
+||stun.*.kugou.com^
 ||tj.kugou.com^
 ||tracker.kugou.com^
 ||trackercdnbj.kugou.com^
