@@ -847,9 +847,6 @@
 
 ! Unknown | 未知 & 杂项
 ||67it.com^
-||1500020991.vodplayer.wxamedia.com^
-||1500022744.vodplayer.wxamedia.com^
-||1500026601.vodplayer.wxamedia.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
 ||ad-sdk-config.youdao.com^
@@ -893,8 +890,6 @@
 ||adservice.sigmob.cn^
 ||adsmart.konka.com^
 ||adsp.xunlei.com^
-||adstore-1252524079.file.myqcloud.com^
-||adstore-index-1252524079.file.myqcloud.com^
 ||adstudio-assets.scdn.co^
 ||adstudio.spotify.com^
 ||adv.fjtv.net^
