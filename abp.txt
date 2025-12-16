@@ -8,6 +8,7 @@
 ||ad.dev.360.cn^
 ||ad.gamebox.360.cn^
 ||ad.jia.360.cn^
+||ad.*.360.cn^
 ||ads360.cn^
 ||c.sayhi.360.cn^
 ||hye.comp.360os.com^
@@ -15,7 +16,11 @@
 ||p.s.360.cn^
 ||union.360.cn^
 
+
 ! Advertising Alliance | 广告联盟
+||67it.com^
+||ad-scope.com.cn^
+||ad-scope.com^
 ||8le8le.com^
 ||ad-survey.com^
 ||adfuture.cn^
@@ -427,6 +432,7 @@
 ||w1.kskwai.com^
 ||yoda.kwd.inkuai.com^
 
+
 ! Kugou | 酷狗音乐
 ||ads.*.kugou.com^
 ||ads.service.kugou.com^
@@ -538,6 +544,7 @@
 ||clientlog3.music.163.com^
 ||crash.163.com^
 ||crashlytics.163.com^
+||iadmusicmat.music.126.net^
 
 ! Pinduoduo
 ||dspsdk.pinduoduo.com^
@@ -846,9 +853,6 @@
 ||zhihu-web-analytics.zhihu.com^
 
 ! Unknown | 未知 & 杂项
-||67it.com^
-||ad-scope.com.cn^
-||ad-scope.com^
 ||ad-sdk-config.youdao.com^
 ||ad.51wnl.com^
 ||ad.10010.com^
