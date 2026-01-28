@@ -796,7 +796,6 @@
 ||ads-video-qc.xhscdn.com^
 
 ! XiaoMi | 小米
-||a0.app.xiaomi.com^
 ||ad.intl.xiaomi.com^
 ||ad.mi.com^
 ||ad.xiaomi.com^
