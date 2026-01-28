@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: AdRules DNS Filter
-! Version: 2025.12
+! Version: 2026.1
 ! Homepage: https://github.com/Cats-Team/dns-filter
-! Description: Block Ads and Statistical
+! Description: Block Ads, Tracker, PCDN
 
 ! 360
 ||ad.dev.360.cn^
@@ -18,58 +18,32 @@
 
 
 ! Advertising Alliance | 广告联盟
-||67it.com^
+||8le8le.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
-||8le8le.com^
 ||ad-survey.com^
 ||adfuture.cn^
 ||adintl.cn^
 ||adjust.cn^
 ||adjust.com^
 ||adkwai.com^
-||adlink-api.huan.tv^
-||ads.95516.com^
-||ads.huan.tv^
-||ads.huantest.com^
-||ads.icloseli.cn^
-||ads.zhinengxiyifang.cn^
 ||adsame.com^
 ||adsco.re^
 ||adsmogo.com^
+||adsmoloco.com^
 ||adsunflower.com^
 ||adview.cn^
 ||advmob.cn^
-||adx-ad.smart-tv.cn^
-||adx-drcn.op.dbankcloud.cn^
-||adxlog-adnet.vivo.com.cn^
 ||beizi.biz^
 ||csjplatform.com^
-||dsp-x.jd.com^
-||dsp.fcbox.com^
-||edge.ads.twitch.tv^
-||ef-dongfeng.tanx.com^
-||events-drcn.op.dbankcloud.cn^
-||grs.dbankcloud.com^
 ||hubcloud.com.cn^
-||hwpub-s01-drcn.cloud.dbankcloud.cn^
-||ifs.tanx.com^
 ||markmedia.com^
-||mission-pub.smart-tv.cn^
 ||mobileservice.cn^
-||ope.tanx.com^
-||recommend-drcn.hms.dbankcloud.cn^
-||rms-drcn.platform.dbankcloud.cn^
-||t-dsp.pinduoduo.com^
-||tdsdk.cpatrk.net^
-||terms-drcn.platform.dbankcloud.cn^
 ||trackingio.com^
 ||tradplus.cn^
 ||tradplus.com^
 ||tradplusad.com^
 ||tsvrv.com^
-||video-dsp.pddpic.com^
-||weather-community-drcn.weather.dbankcloud.cn^
 
 ! Ali | 阿里
 ||adashbc.ut.taobao.com^
@@ -354,6 +328,7 @@
 ||adsfs.oppomobile.com^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
+||httpdns.ocloud.oppomobile.com^
 ||img-c.heytapimage.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
@@ -432,7 +407,6 @@
 ||w1.kskwai.com^
 ||yoda.kwd.inkuai.com^
 
-
 ! Kugou | 酷狗音乐
 ||ads.*.kugou.com^
 ||ads.service.kugou.com^
@@ -484,7 +458,6 @@
 ||tracker.kugou.com^
 ||trackercdnbj.kugou.com^
 ||webcollects.kugou.com^
-
 
 ! Kuwo | 酷我
 ||mobilead.kuwo.cn^
@@ -694,8 +667,6 @@
 ||tmfsdktcpv4.m.qq.com^
 ||trace.qq.com^
 ||tx-kmpaudio.pull.yximgs.com^
-
-
 ||us.l.qq.com^
 ||v2.gdt.qq.com^
 ||v2mi.gdt.qq.com^
@@ -877,16 +848,22 @@
 ||adeng.hpplay.cn^
 ||adexp.chinaliftoff.io^
 ||adguanggao.eee114.com^
+||adlink-api.huan.tv^
 ||adm.funshion.com^
 ||ads-api.tiktok.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
 ||ads-sg.tiktok.com^
+||ads.95516.com^
+||ads.huan.tv^
+||ads.huantest.com^
+||ads.icloseli.cn^
 ||ads.pinterest.com^
 ||ads.pubmatic.com^
 ||ads.servebom.com^
 ||ads.tiktok.com^
 ||ads.v3mh.com^
+||ads.zhinengxiyifang.cn^
 ||adsdk.vivo.com.cn^
 ||adsdkapi.dxys.pro^
 ||adse.test.ximalaya.com^
@@ -919,20 +896,32 @@
 ||cj.qidian.com^
 ||cpc-service-square.aiclk.com^
 ||d.applvn.com^
+||dsp-x.jd.com^
+||dsp.fcbox.com^
+||edge.ads.twitch.tv^
+||ef-dongfeng.tanx.com^
+||events-drcn.op.dbankcloud.cn^
+||grs.dbankcloud.com^
 ||hanlanad.com^
 ||hc-ssp.sm.cn^
+||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||iadctest.qwapi.com^
+||ifs.tanx.com^
 ||img.adnyg.com.w.kunlungr.com^
 ||impression-asia.chinaliftoff.io^
 ||impression.appsflyer.com^
 ||litchiads.com^
 ||m.atm.youku.com^
-||monitor-ads-test.huan.tv^
+||mission-pub.smart-tv.cn^
 ||moatads.com^
+||monitor-ads-test.huan.tv^
 ||ms.applvn.com^
 ||ms4.applvn.com^
 ||mssdk.volces.com^
 ||o-sdk.mediation.unity3d.com^
+||ope.tanx.com^
+||recommend-drcn.hms.dbankcloud.cn^
+||rms-drcn.platform.dbankcloud.cn^
 ||rt.applvn.com^
 ||s8t.teads.tv^
 ||sdk-ab-config.qquanquan.com^
@@ -940,16 +929,21 @@
 ||sdk.markmedia.com.cn^
 ||sigmob.com^
 ||smartad.10010.com^
+||t-dsp.pinduoduo.com^
 ||t.teads.tv^
 ||t1.teads.tv^
+||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
+||terms-drcn.platform.dbankcloud.cn^
 ||trackerads.com^
 ||tradplusad.net^
 ||unioncom.cc^
 ||unityads.unity3d.com^
 ||unityads.unitychina.cn^
+||video-dsp.pddpic.com^
 ||voiceads.cn^
 ||vungle.com^
+||weather-community-drcn.weather.dbankcloud.cn^
 ||wildcard.moatads.com.edgekey.net^
 ||wv.inner-active.mobi^
 ||wwads.cn^
@@ -979,10 +973,6 @@
 ||hexagon-analytics.com^
 ||in.treasuredata.com^
 ||jiguang.cn^
-||livemonitor.huan.tv^
-||monitor-uu.play.aiseet.atianqi.com^
-||omgmta.play.aiseet.atianqi.com^
-||roi.soulapp.cn^
 ||stats.wp.com^
 ||statsigapi.net^
 ||tencent-dtv.m.cn.miaozhen.com^
@@ -995,6 +985,26 @@
 ||umini.shujupie.com^
 
 ! PCDN / CDN
+||bianxian.com^
+||pkoplink.com^
+||szbdyd.com^
+||telecome.cn^
+||uhabo.com^
+||gjfzpt.cn^
+||bsccdn.net^
+||saxysec.com^
+||xycdn.com^
+||kuiniuca.com^
+||onethingpcs.com^
+||jomodns.cn^
+||p2p.huya.com^
+||stun.douyucdn.cn^
+||stun.hitv.com^
+||stun1.douyucdn.cn^
+||mcdn.bilivideo.cn^
+||tpa-hcdn.iqiyi.com^
+||pcdn.xmcdn.com^
+||pcdn.yximgs.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.aiclk.com^
 ||cdn.chinaliftoff-creatives.io^
@@ -1006,15 +1016,12 @@
 ||hw-p2p-pull.video-voip.com^
 ||mobaliyun.res.mgtv.com^
 ||p2cdn.com^
-||pcdn.xmcdn.com^
 ||qn-cdnfile1pcdn.msstatic.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sf16-static.i18n-pglstatp.com^
 ||syh-imp.cdnjtzy.com^
 ||vipgslb.hpplay.cn^
 ||xhcdn.com^
-||xycdn.com^
-||stun.hitv.com^
 
 ! 日志
 ||hugelog.fcbox.com^
@@ -1036,78 +1043,9 @@
 ||rlog.popin.cc^
 ||wslog.chinanetcenter.com^
 
-! 其他
-||aiseet.aa.atianqi.com^
-||andrqd.play.aiseet.atianqi.com^
-||api.fu.xcultur.com^
-||api.jietuhb.com^
-||api.touch-moblie.com^
-||apiyd.my91app.com^
-||bianxian.com^
-||browsercfg-drcn.cloud.dbankcloud.cn^
-||c.kuaiduizuoye.com^
-||catalog.fjwhcbsh.com^
-||cn-api.anythinktech.com^
-||conf.hpplay.cn^
-||config.chsmarttv.com^
-||dl.zuimeitianqi.com^
-||domain.aishengji.com^
-||download.changhong.upgrade2.huan.tv^
-||downloadxml.changhong.upgrade2.huan.tv^
-||drcn-weather.cloud.huawei.com^
-||game.loveota.com^
-||grs.hicloud.com^
-||h5.hpplay.com.cn^
-||heads-fa.spotify.com^
-||hotupgrade.hpplay.cn^
-||houyi.kkmh.com^
+! HTTPDNS
 ||httpdns.bcelive.com^
-||httpdns.ocloud.oppomobile.com^
-||hzsanjiaomao.com^
-||image.hpplay.cn^
-||imdns.hpplay.cn^
-||ipv4.kkmh.com^
-||irc.qubiankeji.com^
-||iyfbodn.com^
-||launcher.smart-tv.cn^
-||launcherimg.smart-tv.cn^
-||livep.l.aiseet.atianqi.com^
-||lives.l.aiseet.atianqi.com^
-||lm10111.jtrincc.cn^
-||micro-xdb.com^
-||mini-prog-drm.vodplayvideo.net^
-||otheve.play.aiseet.atianqi.com^
-||pig.pupuapi.com^
-||pin.hpplay.cn^
-||pkoplink.com^
-||pl.cp31.ott.cibntv.net^
-||rp.hpplay.cn^
-||rps.hpplay.cn^
-||saas.hpplay.cn^
-||saxysec.com^
-||scs.openspeech.cn^
-||sdkauth.hpplay.cn^
-||sdkconfig.play.aiseet.atianqi.com^
-||service.changhong.upgrade2.huan.tv^
-||service.vmos.cn^
-||sl.hpplay.cn^
-||sv.mnyh.fun^
-||szbdyd.com^
-||telecome.cn^
-||tr-asia.adsmoloco.com^
-||tvapp.hpplay.cn^
-||tvuser-ch.cedock.com^
-||uhabo.com^
-||update.lejiao.tv^
-||update0.aiclk.com^
-||upgrade-update.hismarttv.com^
-||usr-api.aiclk.com^
-||v.110route.cn^
-||v2-api-channel-launcher.hismarttv.com^
-||vali-ugc.cp31.ott.cibntv.net^
-||vipauth.hpplay.cn^
-||xlviiirdr.com^
-||xlviirdr.com^
-||sanme2.taisantech.com^
 
-||ytx-file.110route.cn^
+! 其他
+
+
