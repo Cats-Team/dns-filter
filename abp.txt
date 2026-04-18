@@ -904,6 +904,7 @@
 ||analysis.yozocloud.cn^
 ||analytics.woozooo.com^
 ||analyze.lemurbrowser.com^
+||analytics.immersivetranslate.com^
 ||beacons.gvt2.com^
 ||c.evidon.com^
 ||cws-cctv.conviva.com^
