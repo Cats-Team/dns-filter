@@ -905,6 +905,7 @@
 ||analytics.woozooo.com^
 ||analyze.lemurbrowser.com^
 ||analytics.immersivetranslate.com^
+||analytics.cherry-ai.com^
 ||beacons.gvt2.com^
 ||c.evidon.com^
 ||cws-cctv.conviva.com^
