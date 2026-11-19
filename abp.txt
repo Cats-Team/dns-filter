@@ -725,7 +725,6 @@
 ||image-ad.sm.cn^
 ||log.m.sm.cn^
 ||px-intl.ucweb.com^
-||shouji.sogou.com^
 ||track.lc.quark.cn^
 ||track.uc.cn^
 ||video-ad.sm.cn^
